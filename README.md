@@ -1,2 +1,2 @@
 # bettflit
-Test repository
+This is the BETTFLIT repository
